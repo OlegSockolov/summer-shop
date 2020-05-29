@@ -1,7 +1,5 @@
 @import 'reset.css';
 
-/* font-family: 'Source Sans Pro', sans-serif; */
-
 body {
     font-family: 'Uni Sans', sans-serif;
 }
@@ -31,7 +29,6 @@ body {
     padding: 0 15px;
 }
 
-/* Header */
 .header, .header__inner {
     height: 628px;
 }
@@ -52,7 +49,6 @@ body {
     padding: 27px 0 0;
 }
 
-/* Header burger */
 .header__burger {
     display: none;
     width: 30px;
@@ -109,7 +105,6 @@ body {
     transform: rotateZ(45deg);
 }
 
-/* Header nav */
 .header__nav {
     margin-right: -15px;
 }
@@ -244,7 +239,6 @@ body {
     }
 }
 
-/* main */
 .city {
     padding: 44px 0 95px;
     display: flex;
@@ -386,7 +380,6 @@ body {
 
 }
 
-/* We */
 .we {
     margin-bottom: 95px;
 }
@@ -474,8 +467,6 @@ body {
     }
 }
 
-
-/* Skateboard */
 .skateboard {
     background: #70d6d8;
     padding: 70px 0 77px;
@@ -607,7 +598,6 @@ body {
     }
 }
 
-/* Logo */
 .logo {
     position: relative;
     margin-bottom: 162px;
@@ -657,7 +647,6 @@ body {
     }
 }
 
-/* Footer */
 .footer {
     background: #f1f0f3;
 }
